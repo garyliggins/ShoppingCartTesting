@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "ExecutingTests - Shopping Cart Unit Tests",
+      "setup": "",
+      "run": "./gradlew executingtests-shoppingcart-test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
