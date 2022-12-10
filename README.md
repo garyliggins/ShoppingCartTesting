@@ -1,10 +1,7 @@
-# Kenzie Java Project
-
-Follow the instructions on lms.kenzie.academy to complete this assignment.
-
+investigate two methods inside a ShoppingCart class to add items and update quantities for items inside the cart. Create a test plan. then, create tests
 
 ## Gradle Commands
 
 ### Executing Tests - Shopping Cart
 
-* `./gradlew executingtests-shoppingcart-test` - Run Unit Tests for the WordAnalyzer
+* `./gradlew executingtests-shoppingcart-test` -
